@@ -1,0 +1,87 @@
+2016-09-30 00:23:55 ERROR JSONReader:48 - Unrecognized token 'D': was expecting ('true', 'false' or 'null')
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 2]
+2016-09-30 00:25:30 ERROR JSONReader:49 - Unrecognized token 'D': was expecting ('true', 'false' or 'null')
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 2]
+2016-09-30 00:26:28 ERROR JSONReader:50 - Unrecognized token 'D': was expecting ('true', 'false' or 'null')
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 2]
+2016-09-30 00:29:53 ERROR JSONReader:49 - Unrecognized token 'D': was expecting ('true', 'false' or 'null')
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 2]
+2016-09-30 21:25:21 ERROR JSONReader:49 - Unrecognized token 'D': was expecting ('true', 'false' or 'null')
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 2]
+2016-09-30 21:30:48 ERROR JSONReader:52 - Unrecognized token 'D': was expecting ('true', 'false' or 'null')
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 2]
+2016-09-30 21:31:15 ERROR JSONReader:52 - Unrecognized token 'D': was expecting ('true', 'false' or 'null')
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 2]
+2016-09-30 21:34:58 ERROR JSONReader:54 - Can not construct instance of com.ssu.alexey_makarov.task_2.model.eat.Eat, problem: abstract types either need to be mapped to concrete types, have custom deserializer, or be instantiated with additional type information
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 1]
+2016-09-30 21:35:31 ERROR JSONReader:51 - Unrecognized token 'D': was expecting ('true', 'false' or 'null')
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 2]
+2016-09-30 21:35:50 ERROR JSONReader:51 - Can not deserialize instance of com.ssu.alexey_makarov.task_2.model.eat.Eat[] out of START_OBJECT token
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 1]
+2016-09-30 21:36:56 ERROR JSONReader:51 - Can not deserialize instance of com.ssu.alexey_makarov.task_2.model.eat.Eat[] out of START_OBJECT token
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 1]
+2016-09-30 21:40:51 ERROR JSONReader:51 - Can not construct instance of com.ssu.alexey_makarov.task_2.model.eat.Eat, problem: abstract types either need to be mapped to concrete types, have custom deserializer, or be instantiated with additional type information
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 2, column: 3] (through reference chain: Object[][0])
+2016-09-30 21:42:51 ERROR JSONReader:57 - Can not construct instance of com.ssu.alexey_makarov.task_2.model.eat.Eat, problem: abstract types either need to be mapped to concrete types, have custom deserializer, or be instantiated with additional type information
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 2] (through reference chain: Object[][0])
+2016-09-30 21:42:51 INFO  JSONReader:62 - 1
+2016-09-30 21:42:51 INFO  JSONReader:62 - 4
+2016-09-30 21:42:51 INFO  JSONReader:62 - 7
+2016-09-30 21:45:35 ERROR JSONReader:51 - Can not construct instance of com.ssu.alexey_makarov.task_2.model.eat.Eat, problem: abstract types either need to be mapped to concrete types, have custom deserializer, or be instantiated with additional type information
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 2, column: 3] (through reference chain: Object[][0])
+2016-09-30 21:46:29 ERROR JSONReader:51 - Can not construct instance of com.ssu.alexey_makarov.task_2.model.eat.Eat, problem: abstract types either need to be mapped to concrete types, have custom deserializer, or be instantiated with additional type information
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 2, column: 3] (through reference chain: Object[][0])
+2016-09-30 21:48:43 ERROR JSONReader:54 - Can not construct instance of com.ssu.alexey_makarov.task_2.model.eat.Eat, problem: abstract types either need to be mapped to concrete types, have custom deserializer, or be instantiated with additional type information
+ at [Source: D:\Java\menu\src\main\resources\test1.json; line: 1, column: 2] (through reference chain: Object[][0])
+2016-09-30 21:50:23 ERROR JSONReader:54 - Can not construct instance of com.ssu.alexey_makarov.task_2.model.eat.Eat, problem: abstract types either need to be mapped to concrete types, have custom deserializer, or be instantiated with additional type information
+ at [Source: D:\Java\menu\src\main\resources\test1.json; line: 1, column: 2] (through reference chain: Object[][0])
+2016-09-30 21:54:10 ERROR JSONReader:56 - Can not construct instance of com.ssu.alexey_makarov.task_2.model.eat.Eat, problem: abstract types either need to be mapped to concrete types, have custom deserializer, or be instantiated with additional type information
+ at [Source: D:\Java\menu\src\main\resources\test1.json; line: 1, column: 2] (through reference chain: Object[][0])
+2016-09-30 22:44:40 ERROR JSONReader:85 - No content to map due to end-of-input
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 0]
+2016-09-30 22:55:52 ERROR JSONReader:87 - No content to map due to end-of-input
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 0]
+2016-09-30 22:56:58 ERROR JSONReader:87 - No content to map due to end-of-input
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 0]
+2016-09-30 23:02:39 ERROR JSONReader:87 - No content to map due to end-of-input
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 0]
+2016-09-30 23:04:48 ERROR JSONReader:87 - No content to map due to end-of-input
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 0]
+2016-09-30 23:05:06 ERROR JSONReader:87 - No content to map due to end-of-input
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 0]
+2016-09-30 23:07:08 ERROR JSONReader:87 - No content to map due to end-of-input
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 0]
+2016-09-30 23:07:35 ERROR JSONReader:87 - No content to map due to end-of-input
+ at [Source: D:\Java\menu\src\main\resources\menu.json; line: 1, column: 0]
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.salad.Salad@deea3e88
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.soup.Soup@aace9a0b
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.meat.Meat@af223184
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.meat.Meat@a6652a6c
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.garnishe.Garnishe@329621bf
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.meat.Meat@eeb96276
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.garnishe.Garnishe@ccc7c637
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.soup.Soup@f6c8019a
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.salad.Salad@89a27f36
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.dessert.Dessert@7e64d71d
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.dessert.Dessert@297356ca
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.salad.Salad@8fa7d41
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.soup.Soup@e541903a
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.garnishe.Garnishe@c13ea340
+2016-09-30 23:13:57 INFO  JSONReader:66 - com.ssu.alexey_makarov.task_2.model.eat.dishes.dessert.Dessert@3cb70308
+2016-10-01 01:15:06 ERROR EatFactoryImpl:29 - com.ssu.alexey_makarov.task_2.model.eat.dishes.meat.Meat.<init>(java.lang.String, java.lang.Integer, java.lang.Integer)
+2016-10-04 23:59:02 ERROR JSONReader:55 - Invalid type id 'com.ssu.alexey_makarov.task_2.order.eat.dessert.Dessert' (for id type 'Id.class'): no such class found (through reference chain: java.util.HashSet[0])
+2016-10-05 00:00:14 ERROR JSONReader:55 - Invalid type id 'com.ssu.alexey_makarov.task_2.order.eat.dessert.Dessert' (for id type 'Id.class'): no such class found (through reference chain: java.util.HashSet[0])
+2016-10-05 00:00:45 ERROR JSONReader:55 - Invalid type id 'com.ssu.alexey_makarov.task_2.order.eat.dessert.Dessert' (for id type 'Id.class'): no such class found (through reference chain: java.util.HashSet[0])
+2016-10-05 00:02:14 ERROR JSONReader:55 - Invalid type id 'com.ssu.alexey_makarov.task_2.order.eat.dessert.Dessert' (for id type 'Id.class'): no such class found (through reference chain: java.util.HashSet[0])
+2016-10-05 00:09:29 ERROR JSONReader:55 - Invalid type id 'com.ssu.alexey_makarov.task_2.order.eat.dessert.Dessert' (for id type 'Id.class'): no such class found (through reference chain: java.util.HashSet[0])
+2016-10-05 00:09:29 ERROR JSONReader:55 - Invalid type id 'com.ssu.alexey_makarov.task_2.order.eat.dessert.Dessert' (for id type 'Id.class'): no such class found (through reference chain: java.util.HashSet[0])
+2016-10-05 00:16:30 ERROR EatFactoryImpl:26 - com.ssu.alexey_makarov.task_2.model.eat.dishes.dessert.Dessert.<init>(java.lang.String, java.lang.Integer, java.lang.Integer)
+2016-10-05 00:18:37 ERROR EatFactoryImpl:26 - com.ssu.alexey_makarov.task_2.model.eat.dishes.soup.Soup.<init>(java.lang.String, java.lang.Integer, java.lang.Integer)
+2016-10-05 00:18:40 ERROR EatFactoryImpl:26 - com.ssu.alexey_makarov.task_2.model.eat.dishes.soup.Soup.<init>(java.lang.String, java.lang.Integer, java.lang.Integer)
+2016-10-05 00:19:13 ERROR EatFactoryImpl:26 - com.ssu.alexey_makarov.task_2.model.eat.dishes.soup.Soup.<init>(java.lang.String, java.lang.Integer, java.lang.Integer)
+2016-10-05 00:23:29 ERROR EatFactoryImpl:26 - com.ssu.alexey_makarov.task_2.model.eat.dishes.garnishe.Garnishe.<init>(java.lang.String, java.lang.Integer, java.lang.Integer)
+2016-10-05 00:48:00 ERROR EatFactoryImpl:26 - com.ssu.alexey_makarov.task_2.model.eat.dishes.garnishe.Garnishe.<init>(java.lang.String, java.lang.Integer, java.lang.Integer)
+2016-10-05 00:56:08 ERROR EatFactoryImpl:26 - com.ssu.alexey_makarov.task_2.model.eat.dishes.garnishe.Garnishe.<init>(java.lang.String, java.lang.Integer, java.lang.Integer)
+2016-10-05 00:56:20 ERROR EatFactoryImpl:26 - com.ssu.alexey_makarov.task_2.model.eat.dishes.garnishe.Garnishe.<init>(java.lang.String, java.lang.Integer, java.lang.Integer)
+2016-10-05 00:59:55 ERROR EatFactoryImpl:26 - com.ssu.alexey_makarov.task_2.model.eat.dishes.garnishe.Garnishe.<init>(java.lang.String, java.lang.Integer, java.lang.Integer)
+2016-10-05 01:00:32 ERROR EatFactoryImpl:26 - com.ssu.alexey_makarov.task_2.model.eat.dishes.garnishe.Garnishe.<init>(java.lang.String, java.lang.Integer, java.lang.Integer)

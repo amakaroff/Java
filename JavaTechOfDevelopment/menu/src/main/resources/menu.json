@@ -1,0 +1,76 @@
+[ {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.dessert.Dessert",
+  "name" : "Рулет с изюмом",
+  "weight" : 75,
+  "cost" : 15
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.dessert.Dessert",
+  "name" : "Пирог с повидлом",
+  "weight" : 60,
+  "cost" : 13
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.dessert.Dessert",
+  "name" : "Пирог с яблоками",
+  "weight" : 60,
+  "cost" : 13
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.salad.Salad",
+  "name" : "Салат Изюминка",
+  "weight" : 100,
+  "cost" : 35
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.salad.Salad",
+  "name" : "Салат Лукошко",
+  "weight" : 100,
+  "cost" : 40
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.salad.Salad",
+  "name" : "Салат Капустный с помидором",
+  "weight" : 100,
+  "cost" : 19
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.soup.Soup",
+  "name" : "Суп харчо с говядиной",
+  "weight" : 250,
+  "cost" : 31
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.soup.Soup",
+  "name" : "Суп куриный с грибами",
+  "weight" : 250,
+  "cost" : 24
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.soup.Soup",
+  "name" : "Суп болгарский вегетарианский",
+  "weight" : 250,
+  "cost" : 21
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.meat.Meat",
+  "name" : "Рыбное филе с помидоркой ",
+  "weight" : 80,
+  "cost" : 54
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.meat.Meat",
+  "name" : "Печень  по королевски",
+  "weight" : 150,
+  "cost" : 54
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.meat.Meat",
+  "name" : "Свинина запеченная\"По-гусарски\"",
+  "weight" : 80,
+  "cost" : 68
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.garnishe.Garnishe",
+  "name" : "Греча с маслом",
+  "weight" : 170,
+  "cost" : 17
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.garnishe.Garnishe",
+  "name" : "Макароны отварные",
+  "weight" : 170,
+  "cost" : 15
+}, {
+  "@class" : "com.ssu.alexey_makarov.task_2.model.eat.dishes.garnishe.Garnishe",
+  "name" : "Рис отварной с маслом",
+  "weight" : 170,
+  "cost" : 16
+} ]
